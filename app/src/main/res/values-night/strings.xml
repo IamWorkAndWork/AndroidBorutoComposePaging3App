@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_button_finish">Finish</string>
+    <string name="home_text_explorer">Explorer</string>
+    <string name="common_text_find_your_favorite_hero">Find Your Favorite Hero!</string>
+    <string name="common_error_server_unavailable">Server Unavailable</string>
+</resources>
